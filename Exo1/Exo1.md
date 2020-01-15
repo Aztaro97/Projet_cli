@@ -1,5 +1,5 @@
 # EXERCICE 1
-    // cd ~
+     cd ~
     
 2. 'mkdir cli_tmp'
 3.    { touch cli_tmp/je_suis_dans_tmp.txt }
