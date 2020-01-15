@@ -3,8 +3,7 @@
 
 2. 'mkdir cli_tmp'
 
-3. touch cli_tmp/je_suis_dans_tmp.txt
-
+3. { touch cli_tmp/je_suis_dans_tmp.txt }
 4. cd cli_tmp
 
 touch in_cli_tmp.txt
