@@ -1,4 +1,4 @@
-# EXERCICE
+# EXERCICE 5
     pwd
     mkdir ma_class
     cd ma_class
