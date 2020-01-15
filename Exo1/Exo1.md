@@ -1,5 +1,5 @@
-#EXERCICE 1
-1. cd ~
+# EXERCICE 1
+'cd ~'
 
 2. mkdir cli_tmp
 
